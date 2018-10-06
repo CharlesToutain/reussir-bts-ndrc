@@ -1,20 +1,15 @@
 ---
-templateKey: 'contact-page'
-title: Contact Us
-subtitle: We'd Love To Help You, Feel Free To Drop A Mail
-meta_title: Contact Us | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+templateKey: contact-page
+title: Contactez-nous
+subtitle: 'Nous sommes prêts à vous aidez ! '
 contacts:
-  - email: support@lorem.com
-    description: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
-  - email: contact@lorem.com
-    description: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - description: Pour tous problèmes techniques contactez-nous à cette adresse e-mail
+    email: support@gmail.com
+  - description: Pour toutes demandes ou questions contactez-nous sur cette adresse e-mail
+    email: clients@gmail.com
+meta_title: Page contact | réussir son BTS NDRC
+meta_description: >-
+  Page contact du site web réussir son bts NDRC, ici vous pouvez nous contacter
+  pour toutes vos demandes.
 ---
+
