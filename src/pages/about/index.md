@@ -1,38 +1,25 @@
 ---
 templateKey: about-page
-title: About Us
-meta_title: About Us | Gatsby Starter Business
+title: A propos de nous
+meta_title: A propos | Réussir son bts ndrc
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  La page à propos de nous du site réussir son bts NDRC. Ici nous présentons
+  notre parcourt ainsi que nos différentes compétences.
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+## L'envie de vous aider à exceller
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 
-quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Il y a environ 3 ans nous avions passé notre BTS NRC ( à l'époque ). Nous avons vite vu qu'il n'était pas toujours simple d'avoir des informations et qu'il fallait chercher sur internet afin de faire preuve de créativité et performances. Cependant sur le web il y a une multitude d'information et il n'est pas toujours évident de trouver la bonne ! C'est pour cela que nous avons décidé de créer ce site dédié à la réussite de votre avenir.
 
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
+\## Joshua Rapy. 
 
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
+Actuellement dans le secteur bancaire j'ai souhaité lancé ce projet afin de donner mon expertise de la prospection et de la relation client aux futures et apprenants actuelles. 
 
-###Curabitur ullamcorper ultricies nisi.
+\### Charles-Edouard Toutain.
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
+J'ai effectué mon bts chez Orange SA. A l'époque la digitalisation de la relation client était déjà un aspect important, aujourd'hui je suis en master management de projet numériques et entrepreneuriat et je souhaite à travers ce site vous faire bénéficier de mon expertise du web.
 
-**Etiam ultricies nisi vel augue!**
+* Découvrez. 
+* Apprenez.
+* Excellez.
+
+**Construisons-votre réussite ! **
