@@ -3,7 +3,7 @@ templateKey: article-page
 title: Gestion de la relation client
 slug: Gestion-de-la-relation-client
 date: '2018-10-06T14:06:54+02:00'
-cover: /img/tutorials.png
+cover: /img/crm.png
 tags:
   - CRM
   - gestion de la relation client
