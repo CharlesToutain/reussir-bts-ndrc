@@ -7,7 +7,6 @@ import {kebabCase} from 'lodash'
 import Link from 'gatsby-link'
 import Content, {HTMLContent} from '../components/Content'
 import SE0 from '../components/SEO'
-import Disqus from '../components/Disqus'
 import Share from '../components/Share'
 
 export const ArticleTemplate = ({

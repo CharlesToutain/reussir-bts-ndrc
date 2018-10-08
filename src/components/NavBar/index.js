@@ -9,7 +9,7 @@ const NavBar = () => {
     <nav className='navbar is-fixed-top' aria-label='main navigation'>
       <div className='navbar-brand'>
         <Link to='/' className='navbar-item'>
-                    Réussir sont bts NDRC
+                    CTinformatique
         </Link>
         <button className='button navbar-burger' data-target='navMenu'>
           <span />
@@ -36,7 +36,7 @@ const NavBar = () => {
                 <Link
                   className='button is-primary is-outlined'
                   to='/contact'>
-                                    Contact Us
+                        Support
                 </Link>
               </p>
             </div>
